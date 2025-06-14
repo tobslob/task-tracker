@@ -141,3 +141,4 @@ dmypy.json
 .vscode/*
 test.db
 test-fca.db
+dev-fca.db

@@ -32,6 +32,18 @@ From the repository root run:
 docker-compose up --build
 ```
 
+You might likely face this ```sh: react-scripts: command not found after running npm start``` after build.
+
+Solution
+
+```bash
+cd task-tracker-frontend
+npm install
+cd ../ #back to the repository root
+docker-compose down
+docker-compose up
+```
+
 The backend will be available on [http://localhost:8000](http://localhost:8000) and the React frontend on [http://localhost:3000](http://localhost:3000).
 
 ## Running the Application Without Docker
