@@ -9,9 +9,9 @@ services:
       DB: sqlite
       DB_MEMORY: '0'
       BACKEND_CORS_ORIGINS: '["http://localhost:3000"]'
-      SUPERUSER_EMAIL: kazeem.o.odutola@gmail.com
-      SUPERUSER_PASSWORD: Kazeem27$
-      SUPERUSER_NAME: "Kazeem Odutola"
+      SUPERUSER_EMAIL: "your-email-choice@email.com"
+      SUPERUSER_PASSWORD: "password-choice"
+      SUPERUSER_NAME: "your-name-choice"
     ports:
       - "8000:8000"
     command: >-
