@@ -17,10 +17,10 @@ services:
     command: >-
       bash -c "python seed_db.py && uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload"
 
-  react-frontend:
-    build: ./react-frontend
+  task-tracker-frontend:
+    build: ./task-tracker-frontend
     volumes:
-      - ./react-frontend:/app
+      - ./task-tracker-frontend:/app
     environment:
       - HOST=0.0.0.0
       - CHOKIDAR_USEPOLLING=true
