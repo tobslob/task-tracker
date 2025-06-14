@@ -1,0 +1,30 @@
+version: '3.9'
+services:
+  backend:
+    build: ./backend
+    volumes:
+      - ./backend:/app
+    environment:
+      ENV: dev
+      DB: sqlite
+      DB_MEMORY: '0'
+      BACKEND_CORS_ORIGINS: '["http://localhost:3000"]'
+      SUPERUSER_EMAIL: kazeem.o.odutola@gmail.com
+      SUPERUSER_PASSWORD: Kazeem27$
+      SUPERUSER_NAME: "Kazeem Odutola"
+    ports:
+      - "8000:8000"
+    command: >-
+      bash -c "python seed_db.py && uvicorn app.main:app --host 0.0.0.0 --port 8000 --reload"
+
+  react-frontend:
+    build: ./react-frontend
+    volumes:
+      - ./react-frontend:/app
+    environment:
+      - HOST=0.0.0.0
+      - CHOKIDAR_USEPOLLING=true
+      - WDS_SOCKET_PORT=0
+    ports:
+      - "3000:3000"
+    command: npm start

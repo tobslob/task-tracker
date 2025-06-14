@@ -1,0 +1,3 @@
+[submodule "task-tracker-frontend"]
+	path = cds-ui
+	url = https://github.com/tobslob/task-tracker-frontend.git

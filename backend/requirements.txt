@@ -1,0 +1,19 @@
+alembic==1.7.7
+dependency-injector==4.47.1
+fastapi==0.111.0
+loguru==0.6.0
+# Install passlib with the bcrypt extra so the compatible bcrypt backend is
+# installed automatically. This prevents runtime errors where the bcrypt
+# package is missing or incompatible with passlib.
+passlib[bcrypt]==1.7.4
+pydantic==2.11.5
+pydantic-settings==2.1.0
+pytest==7.1.2
+python-dotenv==1.1.0
+python-jose==3.3.0
+pytz==2022.1
+SQLAlchemy==2.0.41
+sqlmodel==0.0.16
+starlette==0.37.2
+python-multipart==0.0.9
+psycopg2-binary==2.9.9

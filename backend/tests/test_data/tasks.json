@@ -1,0 +1,26 @@
+[
+    {
+        "user_id": "test1",
+        "title": "Task 1",
+        "description": "first task",
+        "status": "completed",
+        "priority": "medium",
+        "due_date": "2025-01-01"
+    },
+    {
+        "user_id": "test2",
+        "title": "Task 2",
+        "description": "second task",
+        "status": "pending",
+        "priority": "medium",
+        "due_date": "2025-01-02"
+    },
+    {
+        "user_id": "test_super",
+        "title": "Super task",
+        "description": "super task",
+        "status": "pending",
+        "priority": "medium",
+        "due_date": "2025-01-03"
+    }
+]

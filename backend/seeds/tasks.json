@@ -1,0 +1,2402 @@
+[
+  {
+    "user_id": "user1",
+    "title": "Testing Task 1 - Product",
+    "description": "This task involves a testing for the Product team by user1.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-13"
+  },
+  {
+    "user_id": "user1",
+    "title": "Client Meeting Task 2 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user1.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-14"
+  },
+  {
+    "user_id": "user1",
+    "title": "Bug Fix Task 3 - DevOps",
+    "description": "This task involves a bug fix for the DevOps team by user1.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-15"
+  },
+  {
+    "user_id": "user2",
+    "title": "Bug Fix Task 1 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user2.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-16"
+  },
+  {
+    "user_id": "user2",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user2.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-17"
+  },
+  {
+    "user_id": "user2",
+    "title": "Code Review Task 3 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user2.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-18"
+  },
+  {
+    "user_id": "user3",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user3.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-19"
+  },
+  {
+    "user_id": "user3",
+    "title": "Report Task 2 - Frontend",
+    "description": "This task involves a report for the Frontend team by user3.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-20"
+  },
+  {
+    "user_id": "user3",
+    "title": "Code Review Task 3 - QA",
+    "description": "This task involves a code review for the QA team by user3.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-21"
+  },
+  {
+    "user_id": "user4",
+    "title": "Code Review Task 1 - Support",
+    "description": "This task involves a code review for the Support team by user4.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-22"
+  },
+  {
+    "user_id": "user4",
+    "title": "Code Review Task 2 - Backend",
+    "description": "This task involves a code review for the Backend team by user4.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-23"
+  },
+  {
+    "user_id": "user4",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user4.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-24"
+  },
+  {
+    "user_id": "user5",
+    "title": "Report Task 1 - Support",
+    "description": "This task involves a report for the Support team by user5.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-25"
+  },
+  {
+    "user_id": "user5",
+    "title": "Bug Fix Task 2 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user5.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-06-26"
+  },
+  {
+    "user_id": "user5",
+    "title": "Code Review Task 3 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user5.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-27"
+  },
+  {
+    "user_id": "user6",
+    "title": "Testing Task 1 - Support",
+    "description": "This task involves a testing for the Support team by user6.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-28"
+  },
+  {
+    "user_id": "user6",
+    "title": "Bug Fix Task 2 - QA",
+    "description": "This task involves a bug fix for the QA team by user6.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-06-29"
+  },
+  {
+    "user_id": "user6",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user6.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-30"
+  },
+  {
+    "user_id": "user7",
+    "title": "Bug Fix Task 1 - Design",
+    "description": "This task involves a bug fix for the Design team by user7.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-01"
+  },
+  {
+    "user_id": "user7",
+    "title": "Code Review Task 2 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user7.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-02"
+  },
+  {
+    "user_id": "user7",
+    "title": "Code Review Task 3 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user7.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-03"
+  },
+  {
+    "user_id": "user8",
+    "title": "Client Meeting Task 1 - Product",
+    "description": "This task involves a client meeting for the Product team by user8.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-04"
+  },
+  {
+    "user_id": "user8",
+    "title": "Code Review Task 2 - Design",
+    "description": "This task involves a code review for the Design team by user8.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-05"
+  },
+  {
+    "user_id": "user8",
+    "title": "Code Review Task 3 - DevOps",
+    "description": "This task involves a code review for the DevOps team by user8.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-06"
+  },
+  {
+    "user_id": "user9",
+    "title": "Feature Development Task 1 - Backend",
+    "description": "This task involves a feature development for the Backend team by user9.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-07"
+  },
+  {
+    "user_id": "user9",
+    "title": "Testing Task 2 - Product",
+    "description": "This task involves a testing for the Product team by user9.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-08"
+  },
+  {
+    "user_id": "user9",
+    "title": "Feature Development Task 3 - Backend",
+    "description": "This task involves a feature development for the Backend team by user9.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-09"
+  },
+  {
+    "user_id": "user10",
+    "title": "Feature Development Task 1 - QA",
+    "description": "This task involves a feature development for the QA team by user10.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-10"
+  },
+  {
+    "user_id": "user10",
+    "title": "Bug Fix Task 2 - Product",
+    "description": "This task involves a bug fix for the Product team by user10.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-11"
+  },
+  {
+    "user_id": "user10",
+    "title": "Testing Task 3 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user10.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-12"
+  },
+  {
+    "user_id": "user11",
+    "title": "Client Meeting Task 1 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user11.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-13"
+  },
+  {
+    "user_id": "user11",
+    "title": "Documentation Task 2 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user11.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-14"
+  },
+  {
+    "user_id": "user11",
+    "title": "Report Task 3 - QA",
+    "description": "This task involves a report for the QA team by user11.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-15"
+  },
+  {
+    "user_id": "user12",
+    "title": "Code Review Task 1 - Design",
+    "description": "This task involves a code review for the Design team by user12.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-16"
+  },
+  {
+    "user_id": "user12",
+    "title": "Report Task 2 - Frontend",
+    "description": "This task involves a report for the Frontend team by user12.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-17"
+  },
+  {
+    "user_id": "user12",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user12.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-18"
+  },
+  {
+    "user_id": "user13",
+    "title": "Code Review Task 1 - DevOps",
+    "description": "This task involves a code review for the DevOps team by user13.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-19"
+  },
+  {
+    "user_id": "user13",
+    "title": "Bug Fix Task 2 - DevOps",
+    "description": "This task involves a bug fix for the DevOps team by user13.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-20"
+  },
+  {
+    "user_id": "user13",
+    "title": "Report Task 3 - Backend",
+    "description": "This task involves a report for the Backend team by user13.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-21"
+  },
+  {
+    "user_id": "user14",
+    "title": "Feature Development Task 1 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user14.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-22"
+  },
+  {
+    "user_id": "user14",
+    "title": "Bug Fix Task 2 - QA",
+    "description": "This task involves a bug fix for the QA team by user14.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-23"
+  },
+  {
+    "user_id": "user14",
+    "title": "Documentation Task 3 - Design",
+    "description": "This task involves a documentation for the Design team by user14.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-24"
+  },
+  {
+    "user_id": "user15",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user15.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-25"
+  },
+  {
+    "user_id": "user15",
+    "title": "Code Review Task 2 - Support",
+    "description": "This task involves a code review for the Support team by user15.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-26"
+  },
+  {
+    "user_id": "user15",
+    "title": "Testing Task 3 - Design",
+    "description": "This task involves a testing for the Design team by user15.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-27"
+  },
+  {
+    "user_id": "user16",
+    "title": "Report Task 1 - Product",
+    "description": "This task involves a report for the Product team by user16.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-28"
+  },
+  {
+    "user_id": "user16",
+    "title": "Documentation Task 2 - Design",
+    "description": "This task involves a documentation for the Design team by user16.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-29"
+  },
+  {
+    "user_id": "user16",
+    "title": "Feature Development Task 3 - Product",
+    "description": "This task involves a feature development for the Product team by user16.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-30"
+  },
+  {
+    "user_id": "user17",
+    "title": "Report Task 1 - Backend",
+    "description": "This task involves a report for the Backend team by user17.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-31"
+  },
+  {
+    "user_id": "user17",
+    "title": "Feature Development Task 2 - Frontend",
+    "description": "This task involves a feature development for the Frontend team by user17.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-01"
+  },
+  {
+    "user_id": "user17",
+    "title": "Report Task 3 - Product",
+    "description": "This task involves a report for the Product team by user17.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-08-02"
+  },
+  {
+    "user_id": "user18",
+    "title": "Code Review Task 1 - Backend",
+    "description": "This task involves a code review for the Backend team by user18.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-08-03"
+  },
+  {
+    "user_id": "user18",
+    "title": "Feature Development Task 2 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user18.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-04"
+  },
+  {
+    "user_id": "user18",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user18.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-05"
+  },
+  {
+    "user_id": "user19",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user19.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-08-06"
+  },
+  {
+    "user_id": "user19",
+    "title": "Bug Fix Task 2 - Product",
+    "description": "This task involves a bug fix for the Product team by user19.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-08-07"
+  },
+  {
+    "user_id": "user19",
+    "title": "Testing Task 3 - Support",
+    "description": "This task involves a testing for the Support team by user19.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-08"
+  },
+  {
+    "user_id": "user20",
+    "title": "Feature Development Task 1 - Design",
+    "description": "This task involves a feature development for the Design team by user20.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-09"
+  },
+  {
+    "user_id": "user20",
+    "title": "Client Meeting Task 2 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user20.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-10"
+  },
+  {
+    "user_id": "user20",
+    "title": "Documentation Task 3 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user20.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-11"
+  },
+  {
+    "user_id": "user21",
+    "title": "Report Task 1 - Product",
+    "description": "This task involves a report for the Product team by user21.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-13"
+  },
+  {
+    "user_id": "user21",
+    "title": "Client Meeting Task 2 - Support",
+    "description": "This task involves a client meeting for the Support team by user21.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-14"
+  },
+  {
+    "user_id": "user21",
+    "title": "Feature Development Task 3 - Frontend",
+    "description": "This task involves a feature development for the Frontend team by user21.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-15"
+  },
+  {
+    "user_id": "user22",
+    "title": "Report Task 1 - DevOps",
+    "description": "This task involves a report for the DevOps team by user22.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-16"
+  },
+  {
+    "user_id": "user22",
+    "title": "Documentation Task 2 - Backend",
+    "description": "This task involves a documentation for the Backend team by user22.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-17"
+  },
+  {
+    "user_id": "user22",
+    "title": "Testing Task 3 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user22.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-18"
+  },
+  {
+    "user_id": "user23",
+    "title": "Bug Fix Task 1 - Product",
+    "description": "This task involves a bug fix for the Product team by user23.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-19"
+  },
+  {
+    "user_id": "user23",
+    "title": "Client Meeting Task 2 - Design",
+    "description": "This task involves a client meeting for the Design team by user23.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-20"
+  },
+  {
+    "user_id": "user23",
+    "title": "Testing Task 3 - QA",
+    "description": "This task involves a testing for the QA team by user23.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-21"
+  },
+  {
+    "user_id": "user24",
+    "title": "Code Review Task 1 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user24.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-22"
+  },
+  {
+    "user_id": "user24",
+    "title": "Report Task 2 - Frontend",
+    "description": "This task involves a report for the Frontend team by user24.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-23"
+  },
+  {
+    "user_id": "user24",
+    "title": "Testing Task 3 - Backend",
+    "description": "This task involves a testing for the Backend team by user24.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-24"
+  },
+  {
+    "user_id": "user25",
+    "title": "Code Review Task 1 - Frontend",
+    "description": "This task involves a code review for the Frontend team by user25.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-25"
+  },
+  {
+    "user_id": "user25",
+    "title": "Documentation Task 2 - DevOps",
+    "description": "This task involves a documentation for the DevOps team by user25.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-26"
+  },
+  {
+    "user_id": "user25",
+    "title": "Code Review Task 3 - Design",
+    "description": "This task involves a code review for the Design team by user25.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-27"
+  },
+  {
+    "user_id": "user26",
+    "title": "Bug Fix Task 1 - QA",
+    "description": "This task involves a bug fix for the QA team by user26.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-28"
+  },
+  {
+    "user_id": "user26",
+    "title": "Bug Fix Task 2 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user26.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-29"
+  },
+  {
+    "user_id": "user26",
+    "title": "Feature Development Task 3 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user26.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-30"
+  },
+  {
+    "user_id": "user27",
+    "title": "Documentation Task 1 - Support",
+    "description": "This task involves a documentation for the Support team by user27.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-01"
+  },
+  {
+    "user_id": "user27",
+    "title": "Report Task 2 - DevOps",
+    "description": "This task involves a report for the DevOps team by user27.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-02"
+  },
+  {
+    "user_id": "user27",
+    "title": "Bug Fix Task 3 - Product",
+    "description": "This task involves a bug fix for the Product team by user27.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-03"
+  },
+  {
+    "user_id": "user28",
+    "title": "Bug Fix Task 1 - Product",
+    "description": "This task involves a bug fix for the Product team by user28.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-04"
+  },
+  {
+    "user_id": "user28",
+    "title": "Report Task 2 - DevOps",
+    "description": "This task involves a report for the DevOps team by user28.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-05"
+  },
+  {
+    "user_id": "user28",
+    "title": "Documentation Task 3 - Design",
+    "description": "This task involves a documentation for the Design team by user28.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-06"
+  },
+  {
+    "user_id": "user29",
+    "title": "Documentation Task 1 - QA",
+    "description": "This task involves a documentation for the QA team by user29.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-07"
+  },
+  {
+    "user_id": "user29",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user29.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-08"
+  },
+  {
+    "user_id": "user29",
+    "title": "Bug Fix Task 3 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user29.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-09"
+  },
+  {
+    "user_id": "user30",
+    "title": "Documentation Task 1 - Backend",
+    "description": "This task involves a documentation for the Backend team by user30.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-10"
+  },
+  {
+    "user_id": "user30",
+    "title": "Documentation Task 2 - Support",
+    "description": "This task involves a documentation for the Support team by user30.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-11"
+  },
+  {
+    "user_id": "user30",
+    "title": "Bug Fix Task 3 - QA",
+    "description": "This task involves a bug fix for the QA team by user30.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-12"
+  },
+  {
+    "user_id": "user31",
+    "title": "Report Task 1 - Backend",
+    "description": "This task involves a report for the Backend team by user31.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-13"
+  },
+  {
+    "user_id": "user31",
+    "title": "Testing Task 2 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user31.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-14"
+  },
+  {
+    "user_id": "user31",
+    "title": "Documentation Task 3 - QA",
+    "description": "This task involves a documentation for the QA team by user31.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-15"
+  },
+  {
+    "user_id": "user32",
+    "title": "Documentation Task 1 - Product",
+    "description": "This task involves a documentation for the Product team by user32.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-16"
+  },
+  {
+    "user_id": "user32",
+    "title": "Documentation Task 2 - Product",
+    "description": "This task involves a documentation for the Product team by user32.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-17"
+  },
+  {
+    "user_id": "user32",
+    "title": "Documentation Task 3 - Backend",
+    "description": "This task involves a documentation for the Backend team by user32.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-18"
+  },
+  {
+    "user_id": "user33",
+    "title": "Feature Development Task 1 - Backend",
+    "description": "This task involves a feature development for the Backend team by user33.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-19"
+  },
+  {
+    "user_id": "user33",
+    "title": "Documentation Task 2 - Product",
+    "description": "This task involves a documentation for the Product team by user33.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-20"
+  },
+  {
+    "user_id": "user33",
+    "title": "Report Task 3 - QA",
+    "description": "This task involves a report for the QA team by user33.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-21"
+  },
+  {
+    "user_id": "user34",
+    "title": "Documentation Task 1 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user34.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-22"
+  },
+  {
+    "user_id": "user34",
+    "title": "Documentation Task 2 - QA",
+    "description": "This task involves a documentation for the QA team by user34.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-23"
+  },
+  {
+    "user_id": "user34",
+    "title": "Bug Fix Task 3 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user34.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-24"
+  },
+  {
+    "user_id": "user35",
+    "title": "Documentation Task 1 - QA",
+    "description": "This task involves a documentation for the QA team by user35.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-25"
+  },
+  {
+    "user_id": "user35",
+    "title": "Feature Development Task 2 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user35.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-26"
+  },
+  {
+    "user_id": "user35",
+    "title": "Documentation Task 3 - Support",
+    "description": "This task involves a documentation for the Support team by user35.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-27"
+  },
+  {
+    "user_id": "user36",
+    "title": "Documentation Task 1 - Backend",
+    "description": "This task involves a documentation for the Backend team by user36.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-28"
+  },
+  {
+    "user_id": "user36",
+    "title": "Bug Fix Task 2 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user36.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-29"
+  },
+  {
+    "user_id": "user36",
+    "title": "Testing Task 3 - Backend",
+    "description": "This task involves a testing for the Backend team by user36.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-30"
+  },
+  {
+    "user_id": "user37",
+    "title": "Client Meeting Task 1 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user37.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-31"
+  },
+  {
+    "user_id": "user37",
+    "title": "Feature Development Task 2 - Support",
+    "description": "This task involves a feature development for the Support team by user37.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-08-01"
+  },
+  {
+    "user_id": "user37",
+    "title": "Report Task 3 - Support",
+    "description": "This task involves a report for the Support team by user37.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-02"
+  },
+  {
+    "user_id": "user38",
+    "title": "Feature Development Task 1 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user38.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-03"
+  },
+  {
+    "user_id": "user38",
+    "title": "Testing Task 2 - Design",
+    "description": "This task involves a testing for the Design team by user38.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-04"
+  },
+  {
+    "user_id": "user38",
+    "title": "Client Meeting Task 3 - Product",
+    "description": "This task involves a client meeting for the Product team by user38.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-08-05"
+  },
+  {
+    "user_id": "user39",
+    "title": "Documentation Task 1 - Design",
+    "description": "This task involves a documentation for the Design team by user39.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-06"
+  },
+  {
+    "user_id": "user39",
+    "title": "Feature Development Task 2 - Frontend",
+    "description": "This task involves a feature development for the Frontend team by user39.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-08-07"
+  },
+  {
+    "user_id": "user39",
+    "title": "Report Task 3 - DevOps",
+    "description": "This task involves a report for the DevOps team by user39.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-08"
+  },
+  {
+    "user_id": "user40",
+    "title": "Bug Fix Task 1 - Design",
+    "description": "This task involves a bug fix for the Design team by user40.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-08-09"
+  },
+  {
+    "user_id": "user40",
+    "title": "Feature Development Task 2 - Frontend",
+    "description": "This task involves a feature development for the Frontend team by user40.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-10"
+  },
+  {
+    "user_id": "user40",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user40.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-11"
+  },
+  {
+    "user_id": "user41",
+    "title": "Client Meeting Task 1 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user41.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-13"
+  },
+  {
+    "user_id": "user41",
+    "title": "Testing Task 2 - Support",
+    "description": "This task involves a testing for the Support team by user41.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-14"
+  },
+  {
+    "user_id": "user41",
+    "title": "Feature Development Task 3 - QA",
+    "description": "This task involves a feature development for the QA team by user41.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-15"
+  },
+  {
+    "user_id": "user42",
+    "title": "Code Review Task 1 - Design",
+    "description": "This task involves a code review for the Design team by user42.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-16"
+  },
+  {
+    "user_id": "user42",
+    "title": "Report Task 2 - QA",
+    "description": "This task involves a report for the QA team by user42.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-17"
+  },
+  {
+    "user_id": "user42",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user42.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-18"
+  },
+  {
+    "user_id": "user43",
+    "title": "Feature Development Task 1 - Frontend",
+    "description": "This task involves a feature development for the Frontend team by user43.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-19"
+  },
+  {
+    "user_id": "user43",
+    "title": "Testing Task 2 - QA",
+    "description": "This task involves a testing for the QA team by user43.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-20"
+  },
+  {
+    "user_id": "user43",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user43.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-21"
+  },
+  {
+    "user_id": "user44",
+    "title": "Documentation Task 1 - Design",
+    "description": "This task involves a documentation for the Design team by user44.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-22"
+  },
+  {
+    "user_id": "user44",
+    "title": "Testing Task 2 - Product",
+    "description": "This task involves a testing for the Product team by user44.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-23"
+  },
+  {
+    "user_id": "user44",
+    "title": "Testing Task 3 - Product",
+    "description": "This task involves a testing for the Product team by user44.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-24"
+  },
+  {
+    "user_id": "user45",
+    "title": "Testing Task 1 - Backend",
+    "description": "This task involves a testing for the Backend team by user45.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-25"
+  },
+  {
+    "user_id": "user45",
+    "title": "Feature Development Task 2 - QA",
+    "description": "This task involves a feature development for the QA team by user45.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-26"
+  },
+  {
+    "user_id": "user45",
+    "title": "Report Task 3 - Product",
+    "description": "This task involves a report for the Product team by user45.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-27"
+  },
+  {
+    "user_id": "user46",
+    "title": "Feature Development Task 1 - Design",
+    "description": "This task involves a feature development for the Design team by user46.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-28"
+  },
+  {
+    "user_id": "user46",
+    "title": "Feature Development Task 2 - Product",
+    "description": "This task involves a feature development for the Product team by user46.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-06-29"
+  },
+  {
+    "user_id": "user46",
+    "title": "Documentation Task 3 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user46.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-30"
+  },
+  {
+    "user_id": "user47",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user47.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-01"
+  },
+  {
+    "user_id": "user47",
+    "title": "Code Review Task 2 - DevOps",
+    "description": "This task involves a code review for the DevOps team by user47.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-02"
+  },
+  {
+    "user_id": "user47",
+    "title": "Testing Task 3 - QA",
+    "description": "This task involves a testing for the QA team by user47.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-03"
+  },
+  {
+    "user_id": "user48",
+    "title": "Feature Development Task 1 - QA",
+    "description": "This task involves a feature development for the QA team by user48.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-04"
+  },
+  {
+    "user_id": "user48",
+    "title": "Testing Task 2 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user48.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-05"
+  },
+  {
+    "user_id": "user48",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user48.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-06"
+  },
+  {
+    "user_id": "user49",
+    "title": "Bug Fix Task 1 - QA",
+    "description": "This task involves a bug fix for the QA team by user49.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-07"
+  },
+  {
+    "user_id": "user49",
+    "title": "Testing Task 2 - QA",
+    "description": "This task involves a testing for the QA team by user49.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-08"
+  },
+  {
+    "user_id": "user49",
+    "title": "Testing Task 3 - Product",
+    "description": "This task involves a testing for the Product team by user49.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-09"
+  },
+  {
+    "user_id": "user50",
+    "title": "Bug Fix Task 1 - Design",
+    "description": "This task involves a bug fix for the Design team by user50.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-10"
+  },
+  {
+    "user_id": "user50",
+    "title": "Code Review Task 2 - DevOps",
+    "description": "This task involves a code review for the DevOps team by user50.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-11"
+  },
+  {
+    "user_id": "user50",
+    "title": "Client Meeting Task 3 - Design",
+    "description": "This task involves a client meeting for the Design team by user50.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-12"
+  },
+  {
+    "user_id": "user51",
+    "title": "Documentation Task 1 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user51.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-13"
+  },
+  {
+    "user_id": "user51",
+    "title": "Feature Development Task 2 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user51.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-14"
+  },
+  {
+    "user_id": "user51",
+    "title": "Bug Fix Task 3 - QA",
+    "description": "This task involves a bug fix for the QA team by user51.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-15"
+  },
+  {
+    "user_id": "user52",
+    "title": "Documentation Task 1 - Design",
+    "description": "This task involves a documentation for the Design team by user52.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-16"
+  },
+  {
+    "user_id": "user52",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user52.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-17"
+  },
+  {
+    "user_id": "user52",
+    "title": "Feature Development Task 3 - QA",
+    "description": "This task involves a feature development for the QA team by user52.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-18"
+  },
+  {
+    "user_id": "user53",
+    "title": "Client Meeting Task 1 - QA",
+    "description": "This task involves a client meeting for the QA team by user53.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-19"
+  },
+  {
+    "user_id": "user53",
+    "title": "Testing Task 2 - Backend",
+    "description": "This task involves a testing for the Backend team by user53.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-20"
+  },
+  {
+    "user_id": "user53",
+    "title": "Code Review Task 3 - QA",
+    "description": "This task involves a code review for the QA team by user53.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-21"
+  },
+  {
+    "user_id": "user54",
+    "title": "Documentation Task 1 - Support",
+    "description": "This task involves a documentation for the Support team by user54.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-22"
+  },
+  {
+    "user_id": "user54",
+    "title": "Testing Task 2 - Backend",
+    "description": "This task involves a testing for the Backend team by user54.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-23"
+  },
+  {
+    "user_id": "user54",
+    "title": "Testing Task 3 - Frontend",
+    "description": "This task involves a testing for the Frontend team by user54.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-24"
+  },
+  {
+    "user_id": "user55",
+    "title": "Feature Development Task 1 - Design",
+    "description": "This task involves a feature development for the Design team by user55.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-25"
+  },
+  {
+    "user_id": "user55",
+    "title": "Testing Task 2 - Product",
+    "description": "This task involves a testing for the Product team by user55.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-26"
+  },
+  {
+    "user_id": "user55",
+    "title": "Code Review Task 3 - DevOps",
+    "description": "This task involves a code review for the DevOps team by user55.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-27"
+  },
+  {
+    "user_id": "user56",
+    "title": "Report Task 1 - Support",
+    "description": "This task involves a report for the Support team by user56.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-28"
+  },
+  {
+    "user_id": "user56",
+    "title": "Documentation Task 2 - Backend",
+    "description": "This task involves a documentation for the Backend team by user56.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-29"
+  },
+  {
+    "user_id": "user56",
+    "title": "Testing Task 3 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user56.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-30"
+  },
+  {
+    "user_id": "user57",
+    "title": "Bug Fix Task 1 - Support",
+    "description": "This task involves a bug fix for the Support team by user57.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-31"
+  },
+  {
+    "user_id": "user57",
+    "title": "Bug Fix Task 2 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user57.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-01"
+  },
+  {
+    "user_id": "user57",
+    "title": "Report Task 3 - Frontend",
+    "description": "This task involves a report for the Frontend team by user57.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-08-02"
+  },
+  {
+    "user_id": "user58",
+    "title": "Bug Fix Task 1 - QA",
+    "description": "This task involves a bug fix for the QA team by user58.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-03"
+  },
+  {
+    "user_id": "user58",
+    "title": "Code Review Task 2 - Support",
+    "description": "This task involves a code review for the Support team by user58.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-04"
+  },
+  {
+    "user_id": "user58",
+    "title": "Documentation Task 3 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user58.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-08-05"
+  },
+  {
+    "user_id": "user59",
+    "title": "Client Meeting Task 1 - QA",
+    "description": "This task involves a client meeting for the QA team by user59.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-06"
+  },
+  {
+    "user_id": "user59",
+    "title": "Testing Task 2 - Design",
+    "description": "This task involves a testing for the Design team by user59.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-07"
+  },
+  {
+    "user_id": "user59",
+    "title": "Bug Fix Task 3 - Product",
+    "description": "This task involves a bug fix for the Product team by user59.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-08"
+  },
+  {
+    "user_id": "user60",
+    "title": "Testing Task 1 - QA",
+    "description": "This task involves a testing for the QA team by user60.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-08-09"
+  },
+  {
+    "user_id": "user60",
+    "title": "Client Meeting Task 2 - QA",
+    "description": "This task involves a client meeting for the QA team by user60.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-08-10"
+  },
+  {
+    "user_id": "user60",
+    "title": "Bug Fix Task 3 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user60.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-11"
+  },
+  {
+    "user_id": "user61",
+    "title": "Testing Task 1 - Product",
+    "description": "This task involves a testing for the Product team by user61.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-13"
+  },
+  {
+    "user_id": "user61",
+    "title": "Report Task 2 - Support",
+    "description": "This task involves a report for the Support team by user61.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-14"
+  },
+  {
+    "user_id": "user61",
+    "title": "Documentation Task 3 - Support",
+    "description": "This task involves a documentation for the Support team by user61.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-15"
+  },
+  {
+    "user_id": "user62",
+    "title": "Report Task 1 - Support",
+    "description": "This task involves a report for the Support team by user62.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-16"
+  },
+  {
+    "user_id": "user62",
+    "title": "Client Meeting Task 2 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user62.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-17"
+  },
+  {
+    "user_id": "user62",
+    "title": "Bug Fix Task 3 - Support",
+    "description": "This task involves a bug fix for the Support team by user62.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-18"
+  },
+  {
+    "user_id": "user63",
+    "title": "Testing Task 1 - Design",
+    "description": "This task involves a testing for the Design team by user63.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-19"
+  },
+  {
+    "user_id": "user63",
+    "title": "Client Meeting Task 2 - Frontend",
+    "description": "This task involves a client meeting for the Frontend team by user63.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-20"
+  },
+  {
+    "user_id": "user63",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user63.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-21"
+  },
+  {
+    "user_id": "user64",
+    "title": "Documentation Task 1 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user64.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-22"
+  },
+  {
+    "user_id": "user64",
+    "title": "Client Meeting Task 2 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user64.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-23"
+  },
+  {
+    "user_id": "user64",
+    "title": "Documentation Task 3 - QA",
+    "description": "This task involves a documentation for the QA team by user64.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-24"
+  },
+  {
+    "user_id": "user65",
+    "title": "Testing Task 1 - Design",
+    "description": "This task involves a testing for the Design team by user65.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-25"
+  },
+  {
+    "user_id": "user65",
+    "title": "Code Review Task 2 - Design",
+    "description": "This task involves a code review for the Design team by user65.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-06-26"
+  },
+  {
+    "user_id": "user65",
+    "title": "Feature Development Task 3 - Support",
+    "description": "This task involves a feature development for the Support team by user65.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-27"
+  },
+  {
+    "user_id": "user66",
+    "title": "Client Meeting Task 1 - Design",
+    "description": "This task involves a client meeting for the Design team by user66.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-28"
+  },
+  {
+    "user_id": "user66",
+    "title": "Documentation Task 2 - Product",
+    "description": "This task involves a documentation for the Product team by user66.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-06-29"
+  },
+  {
+    "user_id": "user66",
+    "title": "Code Review Task 3 - QA",
+    "description": "This task involves a code review for the QA team by user66.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-06-30"
+  },
+  {
+    "user_id": "user67",
+    "title": "Documentation Task 1 - Design",
+    "description": "This task involves a documentation for the Design team by user67.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-01"
+  },
+  {
+    "user_id": "user67",
+    "title": "Client Meeting Task 2 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user67.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-02"
+  },
+  {
+    "user_id": "user67",
+    "title": "Testing Task 3 - Support",
+    "description": "This task involves a testing for the Support team by user67.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-03"
+  },
+  {
+    "user_id": "user68",
+    "title": "Client Meeting Task 1 - QA",
+    "description": "This task involves a client meeting for the QA team by user68.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-04"
+  },
+  {
+    "user_id": "user68",
+    "title": "Feature Development Task 2 - Support",
+    "description": "This task involves a feature development for the Support team by user68.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-05"
+  },
+  {
+    "user_id": "user68",
+    "title": "Bug Fix Task 3 - Support",
+    "description": "This task involves a bug fix for the Support team by user68.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-06"
+  },
+  {
+    "user_id": "user69",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user69.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-07"
+  },
+  {
+    "user_id": "user69",
+    "title": "Documentation Task 2 - Support",
+    "description": "This task involves a documentation for the Support team by user69.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-08"
+  },
+  {
+    "user_id": "user69",
+    "title": "Code Review Task 3 - QA",
+    "description": "This task involves a code review for the QA team by user69.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-09"
+  },
+  {
+    "user_id": "user70",
+    "title": "Testing Task 1 - Backend",
+    "description": "This task involves a testing for the Backend team by user70.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-10"
+  },
+  {
+    "user_id": "user70",
+    "title": "Feature Development Task 2 - QA",
+    "description": "This task involves a feature development for the QA team by user70.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-11"
+  },
+  {
+    "user_id": "user70",
+    "title": "Report Task 3 - Product",
+    "description": "This task involves a report for the Product team by user70.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-12"
+  },
+  {
+    "user_id": "user71",
+    "title": "Feature Development Task 1 - Backend",
+    "description": "This task involves a feature development for the Backend team by user71.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-13"
+  },
+  {
+    "user_id": "user71",
+    "title": "Feature Development Task 2 - DevOps",
+    "description": "This task involves a feature development for the DevOps team by user71.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-14"
+  },
+  {
+    "user_id": "user71",
+    "title": "Feature Development Task 3 - Design",
+    "description": "This task involves a feature development for the Design team by user71.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-15"
+  },
+  {
+    "user_id": "user72",
+    "title": "Report Task 1 - Backend",
+    "description": "This task involves a report for the Backend team by user72.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-16"
+  },
+  {
+    "user_id": "user72",
+    "title": "Bug Fix Task 2 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user72.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-17"
+  },
+  {
+    "user_id": "user72",
+    "title": "Client Meeting Task 3 - Product",
+    "description": "This task involves a client meeting for the Product team by user72.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-18"
+  },
+  {
+    "user_id": "user73",
+    "title": "Bug Fix Task 1 - Product",
+    "description": "This task involves a bug fix for the Product team by user73.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-19"
+  },
+  {
+    "user_id": "user73",
+    "title": "Bug Fix Task 2 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user73.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-20"
+  },
+  {
+    "user_id": "user73",
+    "title": "Client Meeting Task 3 - QA",
+    "description": "This task involves a client meeting for the QA team by user73.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-21"
+  },
+  {
+    "user_id": "user74",
+    "title": "Feature Development Task 1 - Design",
+    "description": "This task involves a feature development for the Design team by user74.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-22"
+  },
+  {
+    "user_id": "user74",
+    "title": "Client Meeting Task 2 - QA",
+    "description": "This task involves a client meeting for the QA team by user74.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-23"
+  },
+  {
+    "user_id": "user74",
+    "title": "Report Task 3 - Backend",
+    "description": "This task involves a report for the Backend team by user74.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-24"
+  },
+  {
+    "user_id": "user75",
+    "title": "Documentation Task 1 - QA",
+    "description": "This task involves a documentation for the QA team by user75.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-25"
+  },
+  {
+    "user_id": "user75",
+    "title": "Client Meeting Task 2 - Support",
+    "description": "This task involves a client meeting for the Support team by user75.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-26"
+  },
+  {
+    "user_id": "user75",
+    "title": "Code Review Task 3 - Product",
+    "description": "This task involves a code review for the Product team by user75.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-27"
+  },
+  {
+    "user_id": "user76",
+    "title": "Report Task 1 - Support",
+    "description": "This task involves a report for the Support team by user76.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-28"
+  },
+  {
+    "user_id": "user76",
+    "title": "Documentation Task 2 - Design",
+    "description": "This task involves a documentation for the Design team by user76.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-29"
+  },
+  {
+    "user_id": "user76",
+    "title": "Client Meeting Task 3 - QA",
+    "description": "This task involves a client meeting for the QA team by user76.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-30"
+  },
+  {
+    "user_id": "user77",
+    "title": "Report Task 1 - DevOps",
+    "description": "This task involves a report for the DevOps team by user77.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-31"
+  },
+  {
+    "user_id": "user77",
+    "title": "Feature Development Task 2 - Support",
+    "description": "This task involves a feature development for the Support team by user77.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-01"
+  },
+  {
+    "user_id": "user77",
+    "title": "Client Meeting Task 3 - Support",
+    "description": "This task involves a client meeting for the Support team by user77.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-08-02"
+  },
+  {
+    "user_id": "user78",
+    "title": "Documentation Task 1 - QA",
+    "description": "This task involves a documentation for the QA team by user78.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-08-03"
+  },
+  {
+    "user_id": "user78",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user78.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-08-04"
+  },
+  {
+    "user_id": "user78",
+    "title": "Testing Task 3 - Design",
+    "description": "This task involves a testing for the Design team by user78.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-08-05"
+  },
+  {
+    "user_id": "user79",
+    "title": "Documentation Task 1 - Design",
+    "description": "This task involves a documentation for the Design team by user79.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-06"
+  },
+  {
+    "user_id": "user79",
+    "title": "Bug Fix Task 2 - QA",
+    "description": "This task involves a bug fix for the QA team by user79.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-07"
+  },
+  {
+    "user_id": "user79",
+    "title": "Bug Fix Task 3 - DevOps",
+    "description": "This task involves a bug fix for the DevOps team by user79.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-08-08"
+  },
+  {
+    "user_id": "user80",
+    "title": "Client Meeting Task 1 - QA",
+    "description": "This task involves a client meeting for the QA team by user80.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-09"
+  },
+  {
+    "user_id": "user80",
+    "title": "Report Task 2 - QA",
+    "description": "This task involves a report for the QA team by user80.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-08-10"
+  },
+  {
+    "user_id": "user80",
+    "title": "Feature Development Task 3 - Product",
+    "description": "This task involves a feature development for the Product team by user80.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-08-11"
+  },
+  {
+    "user_id": "user81",
+    "title": "Testing Task 1 - Support",
+    "description": "This task involves a testing for the Support team by user81.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-06-13"
+  },
+  {
+    "user_id": "user81",
+    "title": "Client Meeting Task 2 - Product",
+    "description": "This task involves a client meeting for the Product team by user81.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-14"
+  },
+  {
+    "user_id": "user81",
+    "title": "Bug Fix Task 3 - Support",
+    "description": "This task involves a bug fix for the Support team by user81.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-15"
+  },
+  {
+    "user_id": "user82",
+    "title": "Client Meeting Task 1 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user82.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-16"
+  },
+  {
+    "user_id": "user82",
+    "title": "Code Review Task 2 - Design",
+    "description": "This task involves a code review for the Design team by user82.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-17"
+  },
+  {
+    "user_id": "user82",
+    "title": "Report Task 3 - QA",
+    "description": "This task involves a report for the QA team by user82.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-18"
+  },
+  {
+    "user_id": "user83",
+    "title": "Code Review Task 1 - Design",
+    "description": "This task involves a code review for the Design team by user83.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-19"
+  },
+  {
+    "user_id": "user83",
+    "title": "Testing Task 2 - Frontend",
+    "description": "This task involves a testing for the Frontend team by user83.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-06-20"
+  },
+  {
+    "user_id": "user83",
+    "title": "Report Task 3 - Product",
+    "description": "This task involves a report for the Product team by user83.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-21"
+  },
+  {
+    "user_id": "user84",
+    "title": "Client Meeting Task 1 - Backend",
+    "description": "This task involves a client meeting for the Backend team by user84.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-22"
+  },
+  {
+    "user_id": "user84",
+    "title": "Documentation Task 2 - QA",
+    "description": "This task involves a documentation for the QA team by user84.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-23"
+  },
+  {
+    "user_id": "user84",
+    "title": "Bug Fix Task 3 - Frontend",
+    "description": "This task involves a bug fix for the Frontend team by user84.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-06-24"
+  },
+  {
+    "user_id": "user85",
+    "title": "Feature Development Task 1 - QA",
+    "description": "This task involves a feature development for the QA team by user85.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-06-25"
+  },
+  {
+    "user_id": "user85",
+    "title": "Feature Development Task 2 - Backend",
+    "description": "This task involves a feature development for the Backend team by user85.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-26"
+  },
+  {
+    "user_id": "user85",
+    "title": "Client Meeting Task 3 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user85.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-27"
+  },
+  {
+    "user_id": "user86",
+    "title": "Feature Development Task 1 - Support",
+    "description": "This task involves a feature development for the Support team by user86.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-06-28"
+  },
+  {
+    "user_id": "user86",
+    "title": "Client Meeting Task 2 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user86.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-06-29"
+  },
+  {
+    "user_id": "user86",
+    "title": "Documentation Task 3 - Support",
+    "description": "This task involves a documentation for the Support team by user86.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-06-30"
+  },
+  {
+    "user_id": "user87",
+    "title": "Client Meeting Task 1 - DevOps",
+    "description": "This task involves a client meeting for the DevOps team by user87.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-01"
+  },
+  {
+    "user_id": "user87",
+    "title": "Documentation Task 2 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user87.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-02"
+  },
+  {
+    "user_id": "user87",
+    "title": "Client Meeting Task 3 - Frontend",
+    "description": "This task involves a client meeting for the Frontend team by user87.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-03"
+  },
+  {
+    "user_id": "user88",
+    "title": "Testing Task 1 - Design",
+    "description": "This task involves a testing for the Design team by user88.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-04"
+  },
+  {
+    "user_id": "user88",
+    "title": "Report Task 2 - DevOps",
+    "description": "This task involves a report for the DevOps team by user88.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-05"
+  },
+  {
+    "user_id": "user88",
+    "title": "Bug Fix Task 3 - Product",
+    "description": "This task involves a bug fix for the Product team by user88.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-06"
+  },
+  {
+    "user_id": "user89",
+    "title": "Report Task 1 - Support",
+    "description": "This task involves a report for the Support team by user89.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-07"
+  },
+  {
+    "user_id": "user89",
+    "title": "Testing Task 2 - Frontend",
+    "description": "This task involves a testing for the Frontend team by user89.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-08"
+  },
+  {
+    "user_id": "user89",
+    "title": "Documentation Task 3 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user89.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-09"
+  },
+  {
+    "user_id": "user90",
+    "title": "Bug Fix Task 1 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user90.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-10"
+  },
+  {
+    "user_id": "user90",
+    "title": "Documentation Task 2 - Frontend",
+    "description": "This task involves a documentation for the Frontend team by user90.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-11"
+  },
+  {
+    "user_id": "user90",
+    "title": "Code Review Task 3 - Backend",
+    "description": "This task involves a code review for the Backend team by user90.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-12"
+  },
+  {
+    "user_id": "user91",
+    "title": "Bug Fix Task 1 - Backend",
+    "description": "This task involves a bug fix for the Backend team by user91.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-13"
+  },
+  {
+    "user_id": "user91",
+    "title": "Client Meeting Task 2 - Product",
+    "description": "This task involves a client meeting for the Product team by user91.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-14"
+  },
+  {
+    "user_id": "user91",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user91.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-15"
+  },
+  {
+    "user_id": "user92",
+    "title": "Bug Fix Task 1 - QA",
+    "description": "This task involves a bug fix for the QA team by user92.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-16"
+  },
+  {
+    "user_id": "user92",
+    "title": "Testing Task 2 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user92.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-17"
+  },
+  {
+    "user_id": "user92",
+    "title": "Documentation Task 3 - DevOps",
+    "description": "This task involves a documentation for the DevOps team by user92.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-18"
+  },
+  {
+    "user_id": "user93",
+    "title": "Bug Fix Task 1 - Design",
+    "description": "This task involves a bug fix for the Design team by user93.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-07-19"
+  },
+  {
+    "user_id": "user93",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user93.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-07-20"
+  },
+  {
+    "user_id": "user93",
+    "title": "Testing Task 3 - Frontend",
+    "description": "This task involves a testing for the Frontend team by user93.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-21"
+  },
+  {
+    "user_id": "user94",
+    "title": "Documentation Task 1 - Support",
+    "description": "This task involves a documentation for the Support team by user94.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-07-22"
+  },
+  {
+    "user_id": "user94",
+    "title": "Bug Fix Task 2 - DevOps",
+    "description": "This task involves a bug fix for the DevOps team by user94.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-23"
+  },
+  {
+    "user_id": "user94",
+    "title": "Report Task 3 - Design",
+    "description": "This task involves a report for the Design team by user94.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-07-24"
+  },
+  {
+    "user_id": "user95",
+    "title": "Report Task 1 - DevOps",
+    "description": "This task involves a report for the DevOps team by user95.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-25"
+  },
+  {
+    "user_id": "user95",
+    "title": "Code Review Task 2 - Product",
+    "description": "This task involves a code review for the Product team by user95.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-07-26"
+  },
+  {
+    "user_id": "user95",
+    "title": "Client Meeting Task 3 - QA",
+    "description": "This task involves a client meeting for the QA team by user95.",
+    "status": "completed",
+    "priority": "low",
+    "due_date": "2025-07-27"
+  },
+  {
+    "user_id": "user96",
+    "title": "Testing Task 1 - Backend",
+    "description": "This task involves a testing for the Backend team by user96.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-28"
+  },
+  {
+    "user_id": "user96",
+    "title": "Report Task 2 - Design",
+    "description": "This task involves a report for the Design team by user96.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-07-29"
+  },
+  {
+    "user_id": "user96",
+    "title": "Testing Task 3 - Support",
+    "description": "This task involves a testing for the Support team by user96.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-07-30"
+  },
+  {
+    "user_id": "user97",
+    "title": "Testing Task 1 - Backend",
+    "description": "This task involves a testing for the Backend team by user97.",
+    "status": "in_progress",
+    "priority": "medium",
+    "due_date": "2025-07-31"
+  },
+  {
+    "user_id": "user97",
+    "title": "Report Task 2 - Product",
+    "description": "This task involves a report for the Product team by user97.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-08-01"
+  },
+  {
+    "user_id": "user97",
+    "title": "Documentation Task 3 - DevOps",
+    "description": "This task involves a documentation for the DevOps team by user97.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-02"
+  },
+  {
+    "user_id": "user98",
+    "title": "Documentation Task 1 - Product",
+    "description": "This task involves a documentation for the Product team by user98.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-08-03"
+  },
+  {
+    "user_id": "user98",
+    "title": "Code Review Task 2 - Support",
+    "description": "This task involves a code review for the Support team by user98.",
+    "status": "pending",
+    "priority": "high",
+    "due_date": "2025-08-04"
+  },
+  {
+    "user_id": "user98",
+    "title": "Report Task 3 - Support",
+    "description": "This task involves a report for the Support team by user98.",
+    "status": "pending",
+    "priority": "low",
+    "due_date": "2025-08-05"
+  },
+  {
+    "user_id": "user99",
+    "title": "Code Review Task 1 - Support",
+    "description": "This task involves a code review for the Support team by user99.",
+    "status": "pending",
+    "priority": "medium",
+    "due_date": "2025-08-06"
+  },
+  {
+    "user_id": "user99",
+    "title": "Report Task 2 - DevOps",
+    "description": "This task involves a report for the DevOps team by user99.",
+    "status": "completed",
+    "priority": "high",
+    "due_date": "2025-08-07"
+  },
+  {
+    "user_id": "user99",
+    "title": "Code Review Task 3 - QA",
+    "description": "This task involves a code review for the QA team by user99.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-08-08"
+  },
+  {
+    "user_id": "user100",
+    "title": "Testing Task 1 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user100.",
+    "status": "completed",
+    "priority": "medium",
+    "due_date": "2025-08-09"
+  },
+  {
+    "user_id": "user100",
+    "title": "Report Task 2 - Design",
+    "description": "This task involves a report for the Design team by user100.",
+    "status": "in_progress",
+    "priority": "high",
+    "due_date": "2025-08-10"
+  },
+  {
+    "user_id": "user100",
+    "title": "Testing Task 3 - DevOps",
+    "description": "This task involves a testing for the DevOps team by user100.",
+    "status": "in_progress",
+    "priority": "low",
+    "due_date": "2025-08-11"
+  }
+]
